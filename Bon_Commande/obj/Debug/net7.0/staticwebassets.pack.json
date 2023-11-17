@@ -1,0 +1,177 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ITU\\S5\\Mr_Tovo\\Bon_Commande\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Bon_Commande.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Bon_Commande.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\ITU\\S5\\Mr_Tovo\\Bon_Commande\\wwwroot\\css\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap-icons.css"
+    },
+    {
+      "Id": "D:\\ITU\\S5\\Mr_Tovo\\Bon_Commande\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\ITU\\S5\\Mr_Tovo\\Bon_Commande\\wwwroot\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "D:\\ITU\\S5\\Mr_Tovo\\Bon_Commande\\wwwroot\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "D:\\ITU\\S5\\Mr_Tovo\\Bon_Commande\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\ITU\\S5\\Mr_Tovo\\Bon_Commande\\wwwroot\\css\\templatemo-pod-talk.css",
+      "PackagePath": "staticwebassets\\css\\templatemo-pod-talk.css"
+    },
+    {
+      "Id": "D:\\ITU\\S5\\Mr_Tovo\\Bon_Commande\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\ITU\\S5\\Mr_Tovo\\Bon_Commande\\wwwroot\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "D:\\ITU\\S5\\Mr_Tovo\\Bon_Commande\\wwwroot\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "D:\\ITU\\S5\\Mr_Tovo\\Bon_Commande\\wwwroot\\images\\app-store.png",
+      "PackagePath": "staticwebassets\\images\\app-store.png"
+    },
+    {
+      "Id": "D:\\ITU\\S5\\Mr_Tovo\\Bon_Commande\\wwwroot\\images\\medium-shot-young-people-recording-podcast.jpg",
+      "PackagePath": "staticwebassets\\images\\medium-shot-young-people-recording-podcast.jpg"
+    },
+    {
+      "Id": "D:\\ITU\\S5\\Mr_Tovo\\Bon_Commande\\wwwroot\\images\\play-store.png",
+      "PackagePath": "staticwebassets\\images\\play-store.png"
+    },
+    {
+      "Id": "D:\\ITU\\S5\\Mr_Tovo\\Bon_Commande\\wwwroot\\images\\pod-talk-logo.png",
+      "PackagePath": "staticwebassets\\images\\pod-talk-logo.png"
+    },
+    {
+      "Id": "D:\\ITU\\S5\\Mr_Tovo\\Bon_Commande\\wwwroot\\images\\podcast\\11683425_4790593.jpg",
+      "PackagePath": "staticwebassets\\images\\podcast\\11683425_4790593.jpg"
+    },
+    {
+      "Id": "D:\\ITU\\S5\\Mr_Tovo\\Bon_Commande\\wwwroot\\images\\podcast\\12577967_02.jpg",
+      "PackagePath": "staticwebassets\\images\\podcast\\12577967_02.jpg"
+    },
+    {
+      "Id": "D:\\ITU\\S5\\Mr_Tovo\\Bon_Commande\\wwwroot\\images\\podcast\\27376480_7326766.jpg",
+      "PackagePath": "staticwebassets\\images\\podcast\\27376480_7326766.jpg"
+    },
+    {
+      "Id": "D:\\ITU\\S5\\Mr_Tovo\\Bon_Commande\\wwwroot\\images\\podcast\\27670664_7369753.jpg",
+      "PackagePath": "staticwebassets\\images\\podcast\\27670664_7369753.jpg"
+    },
+    {
+      "Id": "D:\\ITU\\S5\\Mr_Tovo\\Bon_Commande\\wwwroot\\images\\profile\\cute-smiling-woman-outdoor-portrait.jpg",
+      "PackagePath": "staticwebassets\\images\\profile\\cute-smiling-woman-outdoor-portrait.jpg"
+    },
+    {
+      "Id": "D:\\ITU\\S5\\Mr_Tovo\\Bon_Commande\\wwwroot\\images\\profile\\handsome-asian-man-listening-music-through-headphones.jpg",
+      "PackagePath": "staticwebassets\\images\\profile\\handsome-asian-man-listening-music-through-headphones.jpg"
+    },
+    {
+      "Id": "D:\\ITU\\S5\\Mr_Tovo\\Bon_Commande\\wwwroot\\images\\profile\\man-portrait.jpg",
+      "PackagePath": "staticwebassets\\images\\profile\\man-portrait.jpg"
+    },
+    {
+      "Id": "D:\\ITU\\S5\\Mr_Tovo\\Bon_Commande\\wwwroot\\images\\profile\\portrait-handsome-smiling-stylish-young-man-model-dressed-red-checkered-shirt-fashion-man-posing.jpg",
+      "PackagePath": "staticwebassets\\images\\profile\\portrait-handsome-smiling-stylish-young-man-model-dressed-red-checkered-shirt-fashion-man-posing.jpg"
+    },
+    {
+      "Id": "D:\\ITU\\S5\\Mr_Tovo\\Bon_Commande\\wwwroot\\images\\profile\\smart-attractive-asian-glasses-male-standing-smile-with-freshness-joyful-casual-blue-shirt-portrait-white-background.jpg",
+      "PackagePath": "staticwebassets\\images\\profile\\smart-attractive-asian-glasses-male-standing-smile-with-freshness-joyful-casual-blue-shirt-portrait-white-background.jpg"
+    },
+    {
+      "Id": "D:\\ITU\\S5\\Mr_Tovo\\Bon_Commande\\wwwroot\\images\\profile\\smiling-business-woman-with-folded-hands-against-white-wall-toothy-smile-crossed-arms.jpg",
+      "PackagePath": "staticwebassets\\images\\profile\\smiling-business-woman-with-folded-hands-against-white-wall-toothy-smile-crossed-arms.jpg"
+    },
+    {
+      "Id": "D:\\ITU\\S5\\Mr_Tovo\\Bon_Commande\\wwwroot\\images\\profile\\woman-posing-black-dress-medium-shot.jpg",
+      "PackagePath": "staticwebassets\\images\\profile\\woman-posing-black-dress-medium-shot.jpg"
+    },
+    {
+      "Id": "D:\\ITU\\S5\\Mr_Tovo\\Bon_Commande\\wwwroot\\images\\templatemo-wave-banner.jpg",
+      "PackagePath": "staticwebassets\\images\\templatemo-wave-banner.jpg"
+    },
+    {
+      "Id": "D:\\ITU\\S5\\Mr_Tovo\\Bon_Commande\\wwwroot\\images\\templatemo-wave-footer.jpg",
+      "PackagePath": "staticwebassets\\images\\templatemo-wave-footer.jpg"
+    },
+    {
+      "Id": "D:\\ITU\\S5\\Mr_Tovo\\Bon_Commande\\wwwroot\\images\\templatemo-wave-header.jpg",
+      "PackagePath": "staticwebassets\\images\\templatemo-wave-header.jpg"
+    },
+    {
+      "Id": "D:\\ITU\\S5\\Mr_Tovo\\Bon_Commande\\wwwroot\\images\\topics\\delicious-meal-with-sambal-arrangement.jpg",
+      "PackagePath": "staticwebassets\\images\\topics\\delicious-meal-with-sambal-arrangement.jpg"
+    },
+    {
+      "Id": "D:\\ITU\\S5\\Mr_Tovo\\Bon_Commande\\wwwroot\\images\\topics\\physician-consulting-his-patient-clinic.jpg",
+      "PackagePath": "staticwebassets\\images\\topics\\physician-consulting-his-patient-clinic.jpg"
+    },
+    {
+      "Id": "D:\\ITU\\S5\\Mr_Tovo\\Bon_Commande\\wwwroot\\images\\topics\\repairman-doing-air-conditioner-service.jpg",
+      "PackagePath": "staticwebassets\\images\\topics\\repairman-doing-air-conditioner-service.jpg"
+    },
+    {
+      "Id": "D:\\ITU\\S5\\Mr_Tovo\\Bon_Commande\\wwwroot\\images\\topics\\woman-practicing-yoga-mat-home.jpg",
+      "PackagePath": "staticwebassets\\images\\topics\\woman-practicing-yoga-mat-home.jpg"
+    },
+    {
+      "Id": "D:\\ITU\\S5\\Mr_Tovo\\Bon_Commande\\wwwroot\\images\\verified.png",
+      "PackagePath": "staticwebassets\\images\\verified.png"
+    },
+    {
+      "Id": "D:\\ITU\\S5\\Mr_Tovo\\Bon_Commande\\wwwroot\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\js\\.DS_Store"
+    },
+    {
+      "Id": "D:\\ITU\\S5\\Mr_Tovo\\Bon_Commande\\wwwroot\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\ITU\\S5\\Mr_Tovo\\Bon_Commande\\wwwroot\\js\\custom.js",
+      "PackagePath": "staticwebassets\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\ITU\\S5\\Mr_Tovo\\Bon_Commande\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\ITU\\S5\\Mr_Tovo\\Bon_Commande\\wwwroot\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "D:\\ITU\\S5\\Mr_Tovo\\Bon_Commande\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Bon_Commande.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Bon_Commande.props",
+      "PackagePath": "build\\Bon_Commande.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Bon_Commande.props",
+      "PackagePath": "buildMultiTargeting\\Bon_Commande.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Bon_Commande.props",
+      "PackagePath": "buildTransitive\\Bon_Commande.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
