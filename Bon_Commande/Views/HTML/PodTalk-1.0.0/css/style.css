@@ -1,0 +1,49 @@
+/* styles.css */
+.table-container {
+  margin: 20px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 12px;
+  text-align: left;
+}
+
+th {
+  background-color: #064f8b;
+  color: white;
+}
+
+tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+tr:hover {
+  background-color: #f1f1f1;
+}
+
+.custom-title {
+  font-size: 50px; 
+  font-weight: bold; 
+  text-transform: uppercase; 
+}
+.information {
+  border-collapse: collapse;
+  width: 500px;
+}
+
+.information th,
+.information td {
+  border: none;
+}
+
+
+  
+  

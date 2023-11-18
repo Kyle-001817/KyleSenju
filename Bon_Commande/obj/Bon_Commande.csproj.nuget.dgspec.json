@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\ITU\\S5\\Mr_Tovo\\Bon_Commande\\Bon_Commande.csproj": {}
+    "d:\\ITU\\S5\\Mr_Tovo\\Bon_Commande\\Bon_Commande.csproj": {}
   },
   "projects": {
-    "D:\\ITU\\S5\\Mr_Tovo\\Bon_Commande\\Bon_Commande.csproj": {
+    "d:\\ITU\\S5\\Mr_Tovo\\Bon_Commande\\Bon_Commande.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\ITU\\S5\\Mr_Tovo\\Bon_Commande\\Bon_Commande.csproj",
+        "projectUniqueName": "d:\\ITU\\S5\\Mr_Tovo\\Bon_Commande\\Bon_Commande.csproj",
         "projectName": "Bon_Commande",
-        "projectPath": "D:\\ITU\\S5\\Mr_Tovo\\Bon_Commande\\Bon_Commande.csproj",
+        "projectPath": "d:\\ITU\\S5\\Mr_Tovo\\Bon_Commande\\Bon_Commande.csproj",
         "packagesPath": "C:\\Users\\Kyle\\.nuget\\packages\\",
-        "outputPath": "D:\\ITU\\S5\\Mr_Tovo\\Bon_Commande\\obj\\",
+        "outputPath": "d:\\ITU\\S5\\Mr_Tovo\\Bon_Commande\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Kyle\\AppData\\Roaming\\NuGet\\NuGet.Config"
